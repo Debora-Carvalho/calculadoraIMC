@@ -1,5 +1,5 @@
 <p align="center">
-  <img loading="lazy" src="https://github.com/Debora-Carvalho/calculadoraJavascript/assets/104103793/1c290076-0cfa-4a04-8219-879d54a634c9"  width="600" height="auto"  alt="Capa do projeto 'Lâmpada'"/>
+  <img loading="lazy" src="images/calculadoraIMC.jpeg"  width="600" height="auto"  alt="Capa do projeto 'Lâmpada'"/>
 </p>
 
 <h1>🏋️Calculadora IMC</h1>
